@@ -1,0 +1,55 @@
+.header{
+    display: flex;
+    color: aliceblue;
+    background-color: #131921;
+    justify-content: space-between;
+    height: 60px;
+    align-items: center;
+    
+}
+.logo_div{
+    display: flex;
+}
+
+.ama_logo{
+    width: 100px;
+    margin: 5px;
+}
+
+.search{
+    display: flex;
+    height: 30px;
+    align-items: center;
+    width: 200px;  
+    flex: 1; 
+    margin: 0 10px 0 10px;
+}
+
+
+.search > input {
+    height: 12px;
+    border: none;
+    padding: 10px;
+    width: 100%;
+}
+
+.search_icon{
+    background-color:#cd9042;
+    color: black;
+    padding: 5px;
+    height: 22px !important;    
+}
+.links{
+    display: flex;
+    margin-right: 15px;
+}
+.link_div{
+    margin: 0 10px 0 10px;
+}
+
+.link_pro{
+    font-weight: 600;
+}
+.link_div > span{
+    display: flex;
+}
