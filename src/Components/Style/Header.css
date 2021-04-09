@@ -5,17 +5,19 @@
     justify-content: space-between;
     height: 60px;
     align-items: center;
-    
 }
 .logo_div{
     display: flex;
+    margin-left: 5px;
+
 }
 
 .ama_logo{
     width: 100px;
-    margin: 5px;
+   margin-left: 16px;
+    margin-top: 15px;
+   
 }
-
 .search{
     display: flex;
     height: 30px;
